@@ -1,0 +1,8 @@
+CREATE TABLE Students (
+ 	ID INT PRIMARY KEY IDENTITY,
+	NAME RAHUL(35)
+	Department E&TC(35)
+);
+
+INSERT INTO Students VALUES ('Rahul','E&TC');
+SELECT * FROM Students;
